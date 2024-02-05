@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BaseListActivity</string>
+    <string name="enter_updates">Enter Updates</string>
+    <string name="update">Update</string>
+</resources>
